@@ -23,9 +23,11 @@ pip3 install pyre-check fb-sapp django-stubs
 
 ## Exercise 1:
 
-<img src='' width=''/>
+<img src='/Screenshot1.png' width=''/>
 
-<img src='' width=''/>
+<img src='/Screenshot2.png' width=''/>
+
+<img src='/Screenshot3.png' width=''/>
 
 
 ## Exercise 2:
@@ -85,4 +87,5 @@ def subprocess.getoutput(cmd: TaintSink[ShellExecution]): ...
 ```
 <br>
 
-<img src='' width=''/>
+
+<img src='/Screenshot4.png' width=''/>

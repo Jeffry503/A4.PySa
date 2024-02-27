@@ -2,12 +2,12 @@
 
 **Using:** [Tutorial](https://github.com/facebook/pyre-check/tree/main/documentation/pysa_tutorial)
 
-PySa is an open source static analysis tool to detect and prevent security issues in Python code.
+PySA, or Python Static Analyzer, is a tool used for analyzing Python code statically to find potential issues, bugs, or code smells without executing the code. It performs various checks such as detecting syntax errors, looking for unused variables, identifying unreachable code, and more. PySA helps developers ensure code quality and maintainability by providing insights into potential problems early in the development process.
 <br>
 
 ## Set Up
 
-Since we would be using Ubuntu for this assigment, I decided to use an Ubuntu 22.04 virtual machine I had previously configured. Then, I followed the commands provided in the documentation. 
+Since we would be using Ubuntu for this assigment, I decided to use an Ubuntu 22.04 virtual machine I had previously configured. Then, I followed the commands provided in the documentation. I don't know why I was not able to run pysa. I used a mac as a host machine with Ubuntu 22.04. However I was not able to figure it out. but it was a great experience to try the commands and how to access files trough Ubuntu terminal.
 
 ```
 git clone https://github.com/facebook/pyre-check.git
